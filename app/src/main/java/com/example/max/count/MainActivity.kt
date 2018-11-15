@@ -7,6 +7,7 @@ import com.example.max.count.R.string.count
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlin.system.exitProcess
 
+//Counting App
 
 class MainActivity : Activity() {
 
