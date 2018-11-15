@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Count</string>
+    <string name="count">Count</string>
+    <string name="my_counter_app">Craig\'s Counting App!</string>
+    <string name="countVal">0</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
+</resources>
